@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Hnin.
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning python and R intensively.
+- 🌱 I’m currently learning python, Java Script and R intensively.
 - 💞️ I’m looking to collaborate on creative thingy.
 - ⚡ Fun fact: Humourvoll
 
